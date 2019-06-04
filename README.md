@@ -1,4 +1,4 @@
-# Find Book Preview
+# Yuppy Preview
 ***[Ссылка на скачивание](https://play.google.com/store/apps/details?id=com.github.veselinazatchepina.findbook)***
 
 <p>Хотите навести порядок на книжной полке? Или никак не можете найти нужную литературу?</p>

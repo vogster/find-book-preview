@@ -2,8 +2,7 @@
 ***[Ссылка на скачивание](https://play.google.com/store/apps/details?id=com.github.veselinazatchepina.findbook)***
 
 <p>Хотите навести порядок на книжной полке? Или никак не можете найти нужную литературу?</p>
-<p>Приложение Вам поможет! Всё просто: подайте объявление или просто отправляйтесь на поиски.</p>
-<p><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/welcome.png" width="250px" hspace="15"/><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/login.png" width="250px" hspace="15"/></p>
+<p>Приложение Вам поможет! Всё просто: подайте объявление или просто отправляйтесь на поиски.</p><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/login.png" width="250px" hspace="15"/></p>
 
 <p>Ищите книги на карте или фильтруйте список.</p>
 <p><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/map.png" width="250px" hspace="15"/><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/list.png" width="250px" hspace="15"/><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/card.png" width="250px" hspace="15"/><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/search.png" width="250px" hspace="15"/><img src="https://github.com/VeselinaZatchepina/find-book/blob/master/screenshots/book.png" width="250px" hspace="15"/></p>
